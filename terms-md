@@ -1,0 +1,9 @@
+Version control: This is the ability to track and see the history of all changes that have occurred so that you can keep ntrack of each change and have the abiltity to accept and merge the changes or not accept them. You can see each "version" of the project and what has been changed/contributed.
+Repository or repo: a safe place to store projects/content that is either public or private and will allow other contributors to makes changes,recommendations, test etc without affecting the main conten, unless the owner approves
+Commit: is essentially a "save' function. This is how you save changes in a branch
+Commit sha or hash: this is a unique hexidecimal number that is assigned to each change to identify it (hash)
+Push: how a contributor pushes information/change to the original project 
+Pull: how the originator pulls in information/changes from another branch to the original project
+Branches: separare repositories within a repository that allow changes to be made,testing to occur etc. without affecting the original content
+Merge: bringing in changes from another branch and combining it with the original 
+Fork: creating a duplicate of a repo
